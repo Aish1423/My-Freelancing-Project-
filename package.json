@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "build": "npm run build --prefix Frontend",
+    "start": "npm start --prefix Frontend"
+  },
   "dependencies": {
     "nodemon": "^3.1.10"
   }

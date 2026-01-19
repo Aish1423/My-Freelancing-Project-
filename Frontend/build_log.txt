@@ -1,0 +1,265 @@
+
+> freelancer_new_project@0.1.0 build
+> react-scripts build
+
+Creating an optimized production build...
+Browserslist: browsers data (caniuse-lite) is 15 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+Browserslist: browsers data (caniuse-lite) is 15 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+Compiled with warnings.
+
+[eslint] 
+src\Admin Working\Add_Category.js
+  Line 5:8:    'axios' is defined but never used                                                                                                                                                                no-unused-vars
+  Line 10:11:  'nav' is assigned a value but never used                                                                                                                                                         no-unused-vars
+  Line 45:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 60:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 75:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Admin Working\Bde_Bids.js
+  Line 26:7:   React Hook useEffect has a missing dependency: '_id'. Either include it or remove the dependency array                                                                                           react-hooks/exhaustive-deps
+  Line 40:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 55:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 70:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Admin Working\ChangeAdmin_Password.js
+  Line 1:17:   'useEffect' is defined but never used                                                                                                                                                            no-unused-vars
+  Line 2:8:    'axios' is defined but never used                                                                                                                                                                no-unused-vars
+  Line 46:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 61:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 76:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Admin Working\Client_Projects.js
+  Line 41:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 56:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 71:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Admin Working\Edit_Category.js
+  Line 5:8:     'axios' is defined but never used                                                                                                                                                                no-unused-vars
+  Line 6:10:    'ClipLoader' is defined but never used                                                                                                                                                           no-unused-vars
+  Line 11:12:   'load' is assigned a value but never used                                                                                                                                                        no-unused-vars
+  Line 32:11:   React Hook useEffect was passed a dependency list that is not an array literal. This means we can't statically verify whether you've passed the correct dependencies                             react-hooks/exhaustive-deps
+  Line 32:11:   React Hook useEffect has a missing dependency: '_id'. Either include it or remove the dependency array                                                                                           react-hooks/exhaustive-deps
+  Line 73:29:   Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 88:29:   Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 103:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Admin Working\Manage_Bdes.js
+  Line 115:33:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 130:33:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 145:33:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Admin Working\Manage_Category.js
+  Line 4:8:     'axios' is defined but never used                                                                                                                                                                no-unused-vars
+  Line 91:29:   Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 106:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 121:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Admin Working\Manage_Clients.js
+  Line 113:37:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 128:37:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 143:37:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\App.js
+  Line 32:8:   'Clients_Proj' is defined but never used                                                   no-unused-vars
+  Line 48:43:  Imported JSX component Add_Bde must be in PascalCase or SCREAMING_SNAKE_CASE               react/jsx-pascal-case
+  Line 49:50:  Imported JSX component View_AllClient must be in PascalCase or SCREAMING_SNAKE_CASE        react/jsx-pascal-case
+  Line 50:51:  Imported JSX component View_AllProject must be in PascalCase or SCREAMING_SNAKE_CASE       react/jsx-pascal-case
+  Line 52:46:  Imported JSX component UpdateBde_Profile must be in PascalCase or SCREAMING_SNAKE_CASE     react/jsx-pascal-case
+  Line 53:51:  Imported JSX component ChangeBde_Password must be in PascalCase or SCREAMING_SNAKE_CASE    react/jsx-pascal-case
+  Line 54:54:  Imported JSX component ManageBde_Category must be in PascalCase or SCREAMING_SNAKE_CASE    react/jsx-pascal-case
+  Line 55:57:  Imported JSX component Category_Projects must be in PascalCase or SCREAMING_SNAKE_CASE     react/jsx-pascal-case
+  Line 56:49:  Imported JSX component View_Bids must be in PascalCase or SCREAMING_SNAKE_CASE             react/jsx-pascal-case
+  Line 57:47:  Imported JSX component Bid_History must be in PascalCase or SCREAMING_SNAKE_CASE           react/jsx-pascal-case
+  Line 58:57:  Imported JSX component Add_Bid must be in PascalCase or SCREAMING_SNAKE_CASE               react/jsx-pascal-case
+  Line 63:43:  Imported JSX component View_AllBDE must be in PascalCase or SCREAMING_SNAKE_CASE           react/jsx-pascal-case
+  Line 65:51:  Imported JSX component View_AllProjects must be in PascalCase or SCREAMING_SNAKE_CASE      react/jsx-pascal-case
+  Line 66:40:  Imported JSX component Client_Add must be in PascalCase or SCREAMING_SNAKE_CASE            react/jsx-pascal-case
+  Line 67:47:  Imported JSX component View_AllBid must be in PascalCase or SCREAMING_SNAKE_CASE           react/jsx-pascal-case
+  Line 68:54:  Imported JSX component Update_Project must be in PascalCase or SCREAMING_SNAKE_CASE        react/jsx-pascal-case
+  Line 69:51:  Imported JSX component Bid_Details must be in PascalCase or SCREAMING_SNAKE_CASE           react/jsx-pascal-case
+  Line 70:49:  Imported JSX component Update_Profile must be in PascalCase or SCREAMING_SNAKE_CASE        react/jsx-pascal-case
+  Line 71:51:  Imported JSX component Change_Password must be in PascalCase or SCREAMING_SNAKE_CASE       react/jsx-pascal-case
+  Line 73:45:  Imported JSX component Client_Add must be in PascalCase or SCREAMING_SNAKE_CASE            react/jsx-pascal-case
+  Line 79:48:  Imported JSX component Add_Category must be in PascalCase or SCREAMING_SNAKE_CASE          react/jsx-pascal-case
+  Line 81:51:  Imported JSX component Manage_Category must be in PascalCase or SCREAMING_SNAKE_CASE       react/jsx-pascal-case
+  Line 82:53:  Imported JSX component Edit_Category must be in PascalCase or SCREAMING_SNAKE_CASE         react/jsx-pascal-case
+  Line 83:47:  Imported JSX component Manage_Bdes must be in PascalCase or SCREAMING_SNAKE_CASE           react/jsx-pascal-case
+  Line 84:50:  Imported JSX component Manage_Clients must be in PascalCase or SCREAMING_SNAKE_CASE        react/jsx-pascal-case
+  Line 85:55:  Imported JSX component Client_Projects must be in PascalCase or SCREAMING_SNAKE_CASE       react/jsx-pascal-case
+  Line 86:51:  Imported JSX component ChangeAdmin_Password must be in PascalCase or SCREAMING_SNAKE_CASE  react/jsx-pascal-case
+  Line 87:48:  Imported JSX component Bde_Bids must be in PascalCase or SCREAMING_SNAKE_CASE              react/jsx-pascal-case
+
+src\Bde Working\Add_Bde.js
+  Line 25:11:  'nav' is assigned a value but never used                                                                                                                                                         no-unused-vars
+  Line 62:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 77:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 92:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Bde Working\Add_Bid.js
+  Line 1:27:   'useEffect' is defined but never used                                                                                                                                                            no-unused-vars
+  Line 49:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 64:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 79:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Bde Working\Bid_History.js
+  Line 10:11:  'params' is assigned a value but never used                                                                                                                                                      no-unused-vars
+  Line 40:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 55:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 70:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Bde Working\Category_Projects.js
+  Line 41:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 56:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 71:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Bde Working\ChangeBde_Password.js
+  Line 1:17:   'useEffect' is defined but never used                                                                                                                                                            no-unused-vars
+  Line 2:8:    'axios' is defined but never used                                                                                                                                                                no-unused-vars
+  Line 45:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 60:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 75:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Bde Working\ManageBde_Category.js
+  Line 4:8:    'axios' is defined but never used                                                                                                                                                                no-unused-vars
+  Line 10:22:  'setDeleteLoad' is assigned a value but never used                                                                                                                                               no-unused-vars
+  Line 35:9:   'styles' is assigned a value but never used                                                                                                                                                      no-unused-vars
+  Line 52:15:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 67:15:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 82:15:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Bde Working\UpdateBde_Profile.js
+  Line 14:11:   'nav' is assigned a value but never used                                                                                                                                                         no-unused-vars
+  Line 82:29:   Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 97:29:   Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 112:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Bde Working\View_AllClient.js
+  Line 36:21:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 51:21:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 66:21:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Bde Working\View_AllProject.js
+  Line 44:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 59:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 74:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Bde Working\View_Bids.js
+  Line 26:7:   React Hook useEffect has a missing dependency: '_id'. Either include it or remove the dependency array                                                                                           react-hooks/exhaustive-deps
+  Line 39:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 54:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 69:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Client_Working\AddProject.js
+  Line 4:17:    'ToastContainer' is defined but never used                                                                                                                                                       no-unused-vars
+  Line 26:11:   'nav' is assigned a value but never used                                                                                                                                                         no-unused-vars
+  Line 70:29:   Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 85:29:   Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 100:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Client_Working\Bid_Details.js
+  Line 26:6:   React Hook useEffect has a missing dependency: '_id'. Either include it or remove the dependency array                                                                                           react-hooks/exhaustive-deps
+  Line 40:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 55:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 70:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 128:1:  Block is redundant                                                                                                                                                                               no-lone-blocks
+
+src\Client_Working\Change_Password.js
+  Line 1:17:   'useEffect' is defined but never used                                                                                                                                                            no-unused-vars
+  Line 2:8:    'axios' is defined but never used                                                                                                                                                                no-unused-vars
+  Line 45:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 60:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 75:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Client_Working\Client_Add.js
+  Line 61:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 76:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 91:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Client_Working\Clients_Proj.js
+  Line 9:11:   'params' is assigned a value but never used                                                                                                                                                      no-unused-vars
+  Line 26:7:   React Hook useEffect has a missing dependency: '_id'. Either include it or remove the dependency array                                                                                           react-hooks/exhaustive-deps
+  Line 40:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 55:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 70:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Client_Working\Update_Profile.js
+  Line 16:11:   'nav' is assigned a value but never used                                                                                                                                                         no-unused-vars
+  Line 92:29:   Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 107:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 122:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Client_Working\Update_Project.js
+  Line 47:12:   React Hook useEffect has a missing dependency: '_id'. Either include it or remove the dependency array                                                                                           react-hooks/exhaustive-deps
+  Line 81:29:   Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 96:29:   Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 111:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Client_Working\View_AllBDE.js
+  Line 109:37:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 124:37:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 139:37:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Client_Working\View_AllBid.js
+  Line 129:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 144:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 159:29:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Client_Working\View_AllProjects.js
+  Line 89:37:   Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 104:37:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 119:37:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Components\Chatbot.js
+  Line 48:8:  React Hook useEffect has missing dependencies: 'messages.length' and 'showWelcomeMessage'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\Components\FAQ.js
+  Line 145:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Components\Home.js
+  Line 12:25:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 57:25:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 83:25:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Components\Login.js
+  Line 1:8:  'axios' is defined but never used  no-unused-vars
+
+src\Components\Project.js
+  Line 23:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 48:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 73:13:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Components\Team.js
+  Line 25:15:   Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 73:15:   Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 121:15:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+  Line 169:15:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You donΓÇÖt need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+
+src\Layouts\ApiServices.js
+  Line 139:1:   Assign instance to a variable before exporting as module default  import/no-anonymous-default-export
+  Line 139:16:  Missing '()' invoking a constructor                               new-parens
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+File sizes after gzip:
+
+  104.59 kB  build\static\js\main.3febcb7d.js
+  2.27 kB    build\static\css\main.2886e3ec.css
+  1.78 kB    build\static\js\453.ca14b6dd.chunk.js
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
